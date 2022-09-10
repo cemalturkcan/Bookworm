@@ -7,7 +7,7 @@ https://github.com/cemalturkcan/Bookworm.git
 ```
 CREATE DATABASE books;
 ```
-3.Run and enjoy
+3.Run and enjoy it 🎉
 ```
 For the main page
 
