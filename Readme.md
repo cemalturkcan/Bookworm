@@ -15,4 +15,4 @@ http://localhost:8081/
 ```
 
 
-![](https://github.com/cemalturkcan/project2/blob/main/gif/example.gif)
+![](../gifs/example.gif)
