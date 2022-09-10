@@ -15,4 +15,4 @@ http://localhost:8081/
 ```
 
 
-![](../gifs/example.gif)
+![example](https://user-images.githubusercontent.com/101227219/189497817-9a55fc12-d824-4cc8-8880-9efeefa0f41f.gif)
