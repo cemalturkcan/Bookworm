@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 
 @Controller
-@RequestMapping(path = "")
+@RequestMapping()
 public class MainPageController {
-    @GetMapping(value = "")
+    @GetMapping()
     public String aName() {
         return "index.html";
     }
