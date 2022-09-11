@@ -9,7 +9,7 @@ CREATE DATABASE books;
 ```
 3.Run and enjoy it 🎉
 ```
-For the main page
+For the main page:
 
 http://localhost:8081/
 ```
